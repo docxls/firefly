@@ -10,7 +10,9 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ master ]
+    # 20260820
+    # branches: [ master ]
+    branches: [ main ]
   workflow_dispatch:
 
 # Pages 部署需要的权限
