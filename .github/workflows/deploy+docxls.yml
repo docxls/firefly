@@ -2,8 +2,8 @@
 # github.com/shenjuexiao
 # 20260820
 
-# github.com/xugaoyi/vuepress-theme-vdoing
-# github.com/xugaoyi/vuepress-theme-vdoing/blob/master/.github/workflows/ci.yml
+# github.com/CuteLeaf/Firefly
+# github.com/CuteLeaf/Firefly/blob/master/.github/workflows/deploy.yml
 
 # .github/workflows/deploy+docxls.yml
 name: Deploy to GitHub Pages
